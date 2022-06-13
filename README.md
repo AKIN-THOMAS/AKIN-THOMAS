@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bishop Akin-Thomas
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me akinthomasbishop25@gmail.com
 
