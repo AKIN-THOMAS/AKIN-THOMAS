@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bishop Akin-Thomas
-- 👀 I’m interested in Software Development
+- 👀 Up and Coming FullStack Develper, Blockchain Enginner
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me akinthomasbishop25@gmail.com
