@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bishop Akin-Thomas
-- 👀 Up and Coming FullStack Develper, Blockchain Enginner
+- 👀 Frontend Developer || Up and coming Blockchain Eng.
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me akinthomasbishop25@gmail.com
