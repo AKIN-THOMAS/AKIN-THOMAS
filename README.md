@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bishop Akin-Thomas
-- 👀 Frontend Developer || Up and coming Blockchain Eng.
+- 👀 Blockchain Developer || Frontend Developer.
 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me akinthomasbishop25@gmail.com
 
 <!---
