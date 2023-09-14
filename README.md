@@ -52,21 +52,21 @@ I am a **Blockchain Developer** & **Frontend Developer**, enthusiastic about usi
    
 </div>   
    
-<!-- <table>
+ <table>
   <tr>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=Tinny-Robot&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Nathaniel Handan" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tinny-Robot&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Nathaniel Handan" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=AKIN-THOMAS&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Nathaniel Handan" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AKIN-THOMAS&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Akin-Thomas Bishop" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tinny-Robot&theme=dark" alt="Nathaniel Handan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AKIN-THOMAS&theme=dark" alt="Akin-Thomas Bishop" /></p>
   </div>
 
- [![Tinny-Robot's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Tinny-Robot&theme=xcode)](https://github.com/Tinny-Robot)
+ [![AKIN-THOMAS's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AKIN-THOMAS&theme=xcode)](https://github.com/AKIN-THOMAS)
    
    
 
-[![GitHub followers](https://img.shields.io/github/followers/Tinny-Robot.svg?style=social&label=Follow)](https://github.com/Tinny-Robot?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/AKIN-THOMAS.svg?style=social&label=Follow)](https://github.com/AKIN-THOMAS?tab=followers)
 ![](./prof.gif)
