@@ -1,6 +1,6 @@
 <!--![](./prof.gif) -->
 
-<h1 align="center" >Hey there :wave:, I'm <a href="https://www.linkedin.com/in/akin-thomas-bishop-b32477232/" target="_blank">AKIN-THOMAS Bishop Abimbola</a></h1>
+<h1 align="center" >Hey there :wave:, I'm <a href="https://www.linkedin.com/in/bishopabimbola/" target="_blank">AKIN-THOMAS Bishop Abimbola</a></h1>
 <!-- <img width="20%" align="right"   src="./passport-crop.png" > -->
 
 <h1 align="center">About Me⚡</h1>
